@@ -54,38 +54,38 @@ Installation and Setup
 
 To set up and run ChatDoc locally:
 
-Prerequisites
+ 1. Prerequisites
 
-Python 3.8 or higher
+2. Python 3.8 or higher
 
-pip (Python package manager)
+3. pip (Python package manager)
 
-Streamlit
+4. Streamlit
 
-Google Gemini API key
+5. Google Gemini API key
 
 Steps
 
-Clone the repository:
+1. Clone the repository:
 
 git clone https://github.com/yourusername/chatdoc.git
 
-Navigate to the project directory:
+2. Navigate to the project directory:
 
 cd chatdoc
 
-Install Python dependencies:
+3. Install Python dependencies:
 
 pip install -r requirements.txt
 
-Set up environment variables:
+4. Set up environment variables:
 
 Create a .env file and include your configurations, such as the Google Gemini API key.
 
-Run the application:
+5. Run the application:
 
-streamlit run app.py
+streamlit run Home_Page.py
 
-Open the application in your browser:
+6. Open the application in your browser:
 
 http://localhost:8501
