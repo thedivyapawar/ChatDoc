@@ -43,8 +43,6 @@ Use conversational queries to extract specific data.
 
 Streamline workflows and enhance productivity.
 
-Screenshot:
-
 
 2. Dynamic and Intuitive User Interface
 
@@ -54,21 +52,16 @@ Attractive home page design.
 
 Simple navigation and usability.
 
-Screenshot:
 
 
 3. Hassle-Free Login with Google Authorization
 
 Enjoy secure and simplified access to ChatDoc via Google login.
 
-Screenshot:
-
 
 4. Comprehensive FAQ and Support
 
 Find answers to common questions in the FAQ section, tailored to assist users in maximizing ChatDoc’s capabilities.
-
-Screenshot:
 
 
 How ChatDoc Works
