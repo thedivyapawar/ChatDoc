@@ -30,7 +30,43 @@ FAQ :
 
 ![image](https://github.com/user-attachments/assets/0f24f5c2-28b4-4f19-80bf-00c4fcc3600c)
 
+Installation and Setup
 
+Prerequisites
+
+Python 3.8 or higher
+
+pip (Python package manager)
+
+Streamlit
+
+Google Gemini API key
+
+Steps
+
+Clone the repository:
+
+git clone https://github.com/yourusername/chatdoc.git
+
+Navigate to the project directory:
+
+cd chatdoc
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Set up environment variables:
+
+Create a .env file and include configurations such as the Google Gemini API key.
+
+Run the application:
+
+streamlit run Home_Page.py
+
+Open in your browser:
+
+http://localhost:8501
 
 
 
