@@ -30,41 +30,92 @@ FAQ :
 
 ![image](https://github.com/user-attachments/assets/0f24f5c2-28b4-4f19-80bf-00c4fcc3600c)
 
+
+Key Features
+
+1. Interactive Conversations with Your Documents
+
+ChatDoc enables seamless querying of uploaded PDFs, allowing users to:
+
+Upload multiple PDF files effortlessly.
+
+Use conversational queries to extract specific data.
+
+Streamline workflows and enhance productivity.
+
+Screenshot:
+
+
+2. Dynamic and Intuitive User Interface
+
+The platform’s engaging animations and functional model ensure an excellent user experience:
+
+Attractive home page design.
+
+Simple navigation and usability.
+
+Screenshot:
+
+
+3. Hassle-Free Login with Google Authorization
+
+Enjoy secure and simplified access to ChatDoc via Google login.
+
+Screenshot:
+
+
+4. Comprehensive FAQ and Support
+
+Find answers to common questions in the FAQ section, tailored to assist users in maximizing ChatDoc’s capabilities.
+
+Screenshot:
+
+
+How ChatDoc Works
+
+Upload Documents: Start by uploading one or more PDF files.
+
+Ask Questions: Use natural language prompts to query your documents.
+
+Retrieve Information: Get precise and relevant answers quickly.
+
+
+
 Installation and Setup
 
 Prerequisites
 
-Python 3.8 or higher
+1. Python 3.8 or higher
 
-pip (Python package manager)
+2. pip (Python package manager)
 
-Streamlit
+3. Streamlit
 
-Google Gemini API key
+4. Google Gemini API key
 
 Steps
 
-Clone the repository:
+1. Clone the repository:
 
 git clone https://github.com/yourusername/chatdoc.git
 
-Navigate to the project directory:
+2. Navigate to the project directory:
 
 cd chatdoc
 
-Install dependencies:
+3. Install dependencies:
 
 pip install -r requirements.txt
 
-Set up environment variables:
+4. Set up environment variables:
 
 Create a .env file and include configurations such as the Google Gemini API key.
 
-Run the application:
+5. Run the application:
 
 streamlit run Home_Page.py
 
-Open in your browser:
+6. Open in your browser:
 
 http://localhost:8501
 
