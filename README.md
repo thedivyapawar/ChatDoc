@@ -8,6 +8,7 @@ ChatDoc redefines document interaction by allowing users to upload PDF files and
 HOME PAGE :
 
 ![image](https://github.com/user-attachments/assets/645af731-52b3-4608-885f-ab4b0c32e38e)
+
 ![image](https://github.com/user-attachments/assets/2293fc2c-ff8e-4b3a-9dcf-e8dc1d393f12)
 
 LOGIN :
